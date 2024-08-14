@@ -1,3 +1,2 @@
-"use strict";
-let mensagem = 'Hello World, Vitória Lilian';
+var mensagem = 'Hello World, Vitória Lilian';
 console.log(mensagem);
