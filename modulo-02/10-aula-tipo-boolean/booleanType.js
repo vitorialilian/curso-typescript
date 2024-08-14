@@ -1,10 +1,11 @@
+"use strict";
 // => Exemplo 1
-var tarefaConcluida = true;
-var tarefaPendente = false;
+let tarefaConcluida = true;
+let tarefaPendente = false;
 console.log(tarefaConcluida);
 console.log(tarefaPendente);
 // => Exemplo 2
-var concluido = false;
+let concluido = false;
 if (!concluido) {
     console.log('Tarefa foi concluída com sucesso!');
 }

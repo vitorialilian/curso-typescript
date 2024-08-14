@@ -1,11 +1,12 @@
+"use strict";
 // => Variáveis [Type Annotations]
-var nome = 'Vitória Lilian';
+let nome = 'Vitória Lilian';
 console.log(nome);
 // => Arrays [Type Annotations]
-var animais = ['Elefante', 'Cachorro', 'Gato', 'Panda', 'Girafa'];
+let animais = ['Elefante', 'Cachorro', 'Gato', 'Panda', 'Girafa'];
 console.log(animais);
 // => Objetos [Type Annotations]
-var carro;
+let carro;
 carro = {
     nome: 'Fusca',
     ano: 2000,
