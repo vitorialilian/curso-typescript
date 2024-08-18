@@ -1,3 +1,5 @@
+export { };
+
 // => Exemplo 01 - Uso simples de Tuplas em TyperScript
 
 let pessoa: [string, string, number];
