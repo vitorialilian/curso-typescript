@@ -41,7 +41,7 @@ const humano = {
     idioma: 'Português'
 };
 
-const humano_02: Humano = humano;
+// const humano_02: Humano = humano;
 
-console.log(humano_02.nome.toUpperCase());
+// console.log(humano_02.nome.toUpperCase());
 
